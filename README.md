@@ -20,3 +20,6 @@ După vânzare se va putea vedea lista actualizată a spectacolelor. Dacă la un
 sau film nu mai sunt locuri, spectacolul sau filmul va fi afișat cu fonturi speciale.
 
 3. Logout.
+
+Pentru fonturi speciale am optat sa folosesc html , va aparea ca pop-up un fisier html in care se va afisa
+
