@@ -1,6 +1,8 @@
 # OOP_University_1
 Homework made for the OOP course in college
 
+Pentru a se porni programu se va rula fisierul AppCoordinator.cpp
+
 Functionalitati ale programului:
 
 1. Login. După autentificarea cu succes, sunt afișați toți artiștii (numele, data și locul
