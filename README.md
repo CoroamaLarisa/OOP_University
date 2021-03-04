@@ -1,5 +1,4 @@
 # OOP_University_1
-##Program denumit "AtractieFestival" 
 Homework made for the OOP course in college
 
 Functionalitati ale programului:
