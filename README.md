@@ -1,7 +1,7 @@
 # OOP_University_1
 Homework made for the OOP course in college
 
-Pentru a se porni programu se va rula fisierul AppCoordinator.cpp
+Pentru a se porni programul se va rula fisierul AppCoordinator.cpp
 
 Functionalitati ale programului:
 
