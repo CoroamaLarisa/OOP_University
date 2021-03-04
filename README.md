@@ -2,7 +2,6 @@
 Homework made for the OOP course in college
 
 Functionalitati ale programului:
-In functie de ce optiune alegeti:
 
   1. Login. După autentificarea cu succes, sunt afișați toți artiștii (numele, data și locul
   spectacolului, numărul de locuri disponibile și numărul de locuri deja vândute) și toate filmele
