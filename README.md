@@ -1,4 +1,4 @@
-# OOP_University_1
+# OOP_University
 Homework made for the OOP course in college
 
 Pentru a se porni programul se va rula fisierul AppCoordinator.cpp
@@ -23,5 +23,5 @@ sau film nu mai sunt locuri, spectacolul sau filmul va fi afișat cu fonturi spe
 
 3. Logout.
 
-Pentru fonturi speciale am optat sa folosesc html , va aparea ca pop-up un fisier html in care se vor afisa datele
+Pentru fonturi speciale am optat sa folosesc html , va aparea ca pop-up un fisier html in care se vor afisa datele in culori si fonturi diferite(pentru a varia fonturile am folosit un StyleSheet) 
 
