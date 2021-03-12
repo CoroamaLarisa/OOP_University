@@ -1,27 +1,26 @@
 # OOP_University
 Homework made for the OOP course in college
 
-Pentru a se porni programul se va rula fisierul AppCoordinator.cpp
 
-Functionalitati ale programului:
+To run the program run the file AppCoordinator.cpp
 
-1. Login. După autentificarea cu succes, sunt afișați toți artiștii (numele, data și locul
-spectacolului, numărul de locuri disponibile și numărul de locuri deja vândute) și toate filmele
-(titlu, lista de actori, data și locul proiecției numărul de locuri disponibile și numărul de locuri
-deja vândute). Un artist poate susține mai multe spectacole, iar un film poate fi proiectat de
-mai multe ori
 
-2. Operare:
-- Căutare: După autentificarea cu succes, persoana de la oficiu poate căuta artiștii care
-au spectacol sau filmele care rulează într-o anumită zi. Aplicația va afișa toți artiștii
-care au spectacol în acea zi, locația, ora începerii și numărul de locuri disponibile,
-precum și detaliile despre filemele proiectate în acea zi.
-- Cumpărare. Persoana de la oficiu poate vinde bilete pentru un anumit spectacol sau
-film. Pentru vânzare se introduce numele cumpărătorului și numărul de locuri dorite.
-După vânzare se va putea vedea lista actualizată a spectacolelor. Dacă la un spectacol
-sau film nu mai sunt locuri, spectacolul sau filmul va fi afișat cu fonturi speciale.
+Program functionalities:
+
+1. Login. After successful authentication, all artists (name, date,location of the show,the number of seats available and the number of seats already sold)  are displayed, and all the movies( title, list of actors, date and place of screening, number of available seats and number of seats
+already sold). An artist can support several shows, and a film can be projected many times
+
+2. Operation:
+- Search: After successful authentication, the person in the office can search for artists who
+have a show or movies that run on a certain day. The application will display all artists
+who have a show on that day, the location, the start time and the number of seats available,
+as well as details about the movies projected that day.
+- Purchase. The person at the office can sell tickets for a certain show or
+movie. For the sale enter the name of the buyer and the number of seats desired.
+After the sale you will be able to see the updated list of shows. If at a show
+or movie there aren't any more seats, the show or movie will be displayed with special fonts.
 
 3. Logout.
 
-Pentru fonturi speciale am optat sa folosesc html , va aparea ca pop-up un fisier html in care se vor afisa datele in culori si fonturi diferite(pentru a varia fonturile am folosit un StyleSheet) 
+For special fonts I chose to use html, an html file will appear as a pop-up in which the data will be displayed in different colors and fonts (to vary the fonts I used a StyleSheet)
 
